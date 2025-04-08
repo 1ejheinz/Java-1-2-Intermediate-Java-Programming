@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"EJHeinzChapter6_18","l":"coinTossSimulator"}];updateSearchResults();

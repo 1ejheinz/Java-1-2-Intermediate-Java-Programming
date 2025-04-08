@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Currencies","l":"Currency"},{"p":"Currencies","l":"EntryPoint"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Conversions","l":"Conversion"},{"p":"Conversions","l":"EntryPoint"},{"p":"Tempature","l":"EntryPoint"},{"p":"Tempature","l":"TempConversion"}];updateSearchResults();

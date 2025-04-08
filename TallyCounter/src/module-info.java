@@ -1,0 +1,3 @@
+module StaticDemoClass {
+	exports TallyCounter;
+}
